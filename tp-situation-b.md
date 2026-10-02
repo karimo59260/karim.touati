@@ -27,7 +27,7 @@ Précautions prises
 J’ai vérifier différentes pièces du poste avant de me permettre d'ouvrir et de vérifier les composants.
 
 Résultats
-j'ai faits différents test non concluant ce qui ma obliger a ouvrir le poste et ce en faisant le dernier test que je me suis rendu compte que le souci etait l'alimentation.
+Sur une quinzaines de jours j'ai effectué différents test et redémarré le poste 22 fois avant de me rendre compte que le problème était l'alimentation.
 
 Bilan personnel
 j'ai perdu du temps en faisant plusieurs test et je me suis rendu compte que j'aurais du penser a l'alimentation des le debut.
